@@ -1,6 +1,6 @@
 class Person
   
   def initialize(attributes)
-    attributes.
+    attributes.each. do 
   end
 end
