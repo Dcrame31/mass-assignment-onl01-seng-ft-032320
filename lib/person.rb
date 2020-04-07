@@ -1,6 +1,6 @@
 class Person
   
   def initialize(attributes)
-    attributes.each. do 
+    attributes.each.{|key, value|
   end
 end
